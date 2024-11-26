@@ -1,0 +1,29 @@
+# Distribution files
+/distributions/
+
+# Save files
+/saves/
+log.txt
+persistent
+
+# Python compiled files
+*.pyc
+*.pyo
+
+# Ren'Py cache
+/cache/
+
+# Project specific Ren'Py files
+/renpy/common/00z.rpyc
+/renpy/common/00library.rpyc
+/renpy/common/00z.rpyb
+
+# Thumbnails and previews
+/thumbs/
+
+# Operating system-specific files
+.DS_Store
+Thumbs.db
+
+# Editor specific
+.vscode/

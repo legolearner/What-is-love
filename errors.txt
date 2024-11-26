@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 21: end of line expected.
+    scene pic one with zoom 2.0 at truecenter
+                            ^
+
+Ren'Py Version: Ren'Py 8.3.0.24082114
+Sat Sep  7 14:07:03 2024
